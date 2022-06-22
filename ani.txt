@@ -1,0 +1,2 @@
+Lion|Sher|4|Meat
+Elephant|Hathi|5|Vegetables

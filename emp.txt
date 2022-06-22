@@ -1,0 +1,6 @@
+101|Harshit Kant Verma|Male |2000-11-30|07903834385|4976|OLD A.G. Colony Kadru|Admin
+?02|Yash|Male |2000-05-05|895642625|3998|Banashankari|Caretaker
+?4|Rahul Saraf|Male |2000-12-15|5555551111|8000|OLD A.G. Colony Kadru|Admin
+102|Rahul Saraf|Male |2000-12-15|7878785251|499997|24th Main Street|Admin
+?03|Raj|Male |2000-05-05|7878524620|5000|B|
+?03|Raj|Male |2000-05-05|7878452630|5000|Banashankari|Caretaker

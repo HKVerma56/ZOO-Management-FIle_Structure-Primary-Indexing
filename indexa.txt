@@ -1,0 +1,2 @@
+Lion|0|
+Elephant|17|
